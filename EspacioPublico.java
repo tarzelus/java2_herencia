@@ -7,7 +7,7 @@ public class EspacioPublico {
 
 
 
-		private String Proba;
+
 		private String Direccion;
 		private String Tipo;
 		private String Localidad;
