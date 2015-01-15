@@ -8,7 +8,7 @@ public class Museos extends EspacioPublico
 		super();
 	}
 
-	// getter y setter
+	// getter y sets
 
         public int getIdMuseo()
 		{

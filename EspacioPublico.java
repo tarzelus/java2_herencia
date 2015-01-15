@@ -1,4 +1,4 @@
-//package com.zubiri.elecciones;
+//package com.zubiri.eleccionesssssssssssssssssssrethjetjmr;
 import java.util.Scanner;
 
 
@@ -7,7 +7,7 @@ public class EspacioPublico {
 
 
 
-		
+		private String Proba;
 		private String Direccion;
 		private String Tipo;
 		private String Localidad;

@@ -1,4 +1,4 @@
-public class Iglesias extends EspacioPublico
+museopublic class Iglesias extends EspacioPublico
 {
 	private String nombreIglesia;
 	private int idIglesia;
