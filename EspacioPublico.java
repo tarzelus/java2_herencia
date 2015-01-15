@@ -8,9 +8,9 @@ public class EspacioPublico {
 
 
 
-		private String Direccion;
-		private String Tipo;
-		private String Localidad;
+		protected String Direccion;
+		protected String Tipo;
+		protected String Localidad;
 	
 		
 //--------------------direccion--------------------------------	

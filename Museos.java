@@ -4,9 +4,9 @@ public class Museos extends EspacioPublico
 	private int idMuseo;
 	private String tipoMuseo, nombreMuseo;
 
-        public Museos() {
+        /*public Museos() {
 		super();
-	}
+	}*/
 
 	// getter y sets
 

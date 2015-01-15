@@ -1,8 +1,9 @@
 import java.util.Hashtable;
 
+
 public class Main {
-	public static void main (String [ ] Args) {
-	        Museo museo = new Museo ();
+	public static void main (String[] Args) {
+	        Museos museo = new Museos();
 	        museo.setTipoMuseo("Museo");
 	        museo.setNombreMuseo("San Telmo museoa");
 	        museo.setIdMuseo(1);
@@ -10,11 +11,11 @@ public class Main {
 	        
 	        System.out.print("--- Museo: ");
 	        System.out.print("\nTipo: " + museo.getTipoMuseo());
-	        System.out.print("\Nombre: " + museo.getNombreMuseo());
+	        System.out.print("\nNombre: " + museo.getNombreMuseo());
 	        System.out.print("\nId: " + museo.getIdMuseo());
 
 
-	        Iglesia iglesia = new Iglesia();
+	        Iglesias iglesia = new Iglesias();
 	        iglesia.setNombreIglesia("Buen Pastor");
 	        iglesia.setIdIglesia(2);
 	        iglesia.setTipoIglesia("catedral");

@@ -1,12 +1,12 @@
-museopublic class Iglesias extends EspacioPublico
+public class Iglesias extends EspacioPublico
 {
 	private String nombreIglesia;
 	private int idIglesia;
 	private String tipoIglesia;
 
-        public Iglesias() {
+       /* public Iglesias() {
 		super();
-        }
+        }*/
 
 	// getter y setter
 
